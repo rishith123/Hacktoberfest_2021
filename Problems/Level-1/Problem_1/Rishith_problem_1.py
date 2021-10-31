@@ -7,3 +7,4 @@ for i in range(runs) :
     result=str[::-1]
     result=result.swapcase()
     print(result)
+    #end
